@@ -1,0 +1,7 @@
+UKTK FACE DATASET FOR TRAINING:
+
+https://www.kaggle.com/datasets/jangedoo/utkface-new
+
+AGEDB DATSET FOR TESTING:
+
+https://www.kaggle.com/datasets/nitingandhi/agedb-database
